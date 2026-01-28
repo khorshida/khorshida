@@ -10,9 +10,9 @@
 
 - **Database:** SQL, PostgreSQL(basic) , Oracle Database (PL/SQL basics)
   
- -**Programming Concepts:** Logic building, loops, functions, array
+- **Programming Concepts:** Logic building, loops, functions, array
  
--**Tools:** Git, GitHub, Postman, XAMPP, VS CODE, LaTex(For ML paper)
+- **Tools:** Git, GitHub, Postman, XAMPP, VS CODE, LaTex(For ML paper)
 
 ## 🌱 Currently Learning
 
