@@ -5,7 +5,9 @@
 
 ## 🔧 Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, Next.js
-- **Backend:** PHP (basic), NestJS 
+
+- **Backend:** PHP (basic), NestJS
+
 - **Database:** SQL, PostgreSQL(basic) , Oracle Database (PL/SQL basics)
   
  -**Programming Concepts:** Logic building, loops, functions, array
