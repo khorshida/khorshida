@@ -16,11 +16,15 @@
 
 ## 🌱 Currently Learning
 
-Improving JavaScript fundamentals
-
 Better project structuring and documentation
 
 Software engineering concepts and best practices
+
+## 📂 Projects
+
+Here are some of the projects I’ve worked on during my academic journey:
+- **Job Portal:** Implementation of HTML, CSS, JavaScript, PHP
+
 <!--
 **khorshida/khorshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
