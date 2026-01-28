@@ -7,7 +7,9 @@
 - **Frontend:** HTML, CSS, JavaScript, Next.js
 - **Backend:** PHP (basic), NestJS 
 - **Database:** SQL, PostgreSQL(basic) , Oracle Database (PL/SQL basics)
- -**Programming Concepts:** Logic building, loops, functions, arrays
+  
+ -**Programming Concepts:** Logic building, loops, functions, array
+ 
 -**Tools:** Git, GitHub, Postman, XAMPP, VS CODE, LaTex(For ML paper)
 
 ## 🌱 Currently Learning
