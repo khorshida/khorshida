@@ -15,6 +15,7 @@
 - **Tools:** Git, GitHub, Postman, XAMPP, VS CODE, LaTex(For ML paper)
 
 ## 🌱 Currently Learning
+In-depth knowledge of JavaScript
 
 Better project structuring and documentation
 
